@@ -15,4 +15,4 @@ link here:  https://neatartist.github.io/Horiseon/
 
 ## Image 
 
-![Alt text](neatartist.github.io_Horiseon_.png)
+![Alt text](assets/images/neatartist.github.io_Horiseon_.png)
