@@ -9,7 +9,7 @@
 
 ## content
  .html- changed most tags to be semantic tags to be easier to see what applies where.
- CSS- combined CSS with similar effects to shorten the amount of code wihtin the CSS
+ CSS- combined CSS with similar effects to shorten the amount of code wihtin the CSS. 
 
 
 ## link 
