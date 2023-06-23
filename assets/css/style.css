@@ -8,12 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+/*changed to header and removed the class*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
+
+/*fixed h1 to header withut the period for proper application*/
 
 header h1 {
     display: inline-block;
@@ -71,6 +75,8 @@ p {
     margin-left: 20px;
 }
 
+/*combined the benefit duplicted code into one*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,6 +88,7 @@ p {
     background-color: #2589bd;
 }
 
+/*combined similar code to one and changed the name to article1*/
 article1 {
     margin-bottom: 32px;
     color: #ffffff;
@@ -92,12 +99,14 @@ h3 {
     text-align: center;
 }
 
+/*combined media css duplicaes into one for application on the images*/
 article1 img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*re-titled to article and applied to html*/
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -107,6 +116,7 @@ article {
     color: #ffffff;
 }
 
+/*removed the unnecessary text prior to img and h2*/
 img {
     max-height: 200px;
 }
@@ -116,13 +126,14 @@ h2 {
     font-size: 36px;
 }
 
+/*changed to footer and applied properly to html*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*changed to reflect the change made above*/
 footer h2 {
     font-size: 20px;
 }
