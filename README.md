@@ -8,6 +8,7 @@
 
 ## content
  .html- changed most tags to semantic tags to be easier to see what applies where.
+ 
  CSS- combined CSS with similar effects to shorten the amount of code within the CSS. 
 
 
